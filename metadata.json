@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI Detector",
+  "description": "A sophisticated tool utilizing advanced linguistic analysis to distinguish between AI-generated and human-written content with detailed confidence scoring.",
+  "requestFramePermissions": []
+}
